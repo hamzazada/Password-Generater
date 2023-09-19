@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+#main{
+    background-color:#1F2937;
+    width: 550px;
+    height: 550px;
+   margin-top: 20px;
+    margin-left: 360px;
+    text-align: center;
+
+}
+#gen{
+    color: white;
+     font-weight: bolder;
+}
+#ran{
+    color: #10B981;
+    font-weight: bolder;
+
+}
+p{
+    color:#D5D4D8;
+
+}
+#btn{
+    
+   background: #10B981;
+color: white; 
+border: none;
+padding: 9px 17px 9px 17px;
+    border-radius: 5px;
+}
+#inp{
+    width: 446px;
+    margin-top: 25px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #D5D4D8;
+    color: white;
+}
